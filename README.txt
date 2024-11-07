@@ -1,0 +1,1 @@
+French dev doing quant trading algorithms with python and golang.
